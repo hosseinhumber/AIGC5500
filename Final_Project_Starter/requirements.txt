@@ -1,0 +1,11 @@
+# Starting list only. Before you submit, replace this file with the output of: pip freeze > requirements.txt
+# Make sure torch, numpy, scikit-learn, matplotlib, pandas, psutil and every package you imported are in it.
+torch
+numpy
+scikit-learn
+matplotlib
+pandas
+psutil
+jupyter
+nbclient
+pytest
